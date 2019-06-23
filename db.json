@@ -1,0 +1,37 @@
+{
+    "issues":[
+            
+        {
+            "title": "Cohérence Segment/Chiffre d'affaire",
+			"desc": "Incohérence entre les segments des clients et leur chiffres d’affaire/types.",
+			"tags":[
+				
+				{"tag": "besoin signalé", "color":"green"},
+				{"tag": "new", "color":"red"}
+			]
+        },
+        {
+            "title": "Complétude des canaux : Téléphones/Email",
+			"desc": "Existence de plusieurs champs pour les numéros de téléphones/emails dont aucun n’est obligatoire ce qui cause un problème de complétude.",
+			"tags":[
+				{"tag": "avertissement", "color":"orange"},
+				{"tag": "automatique", "color":"blue"}
+			]
+        },
+        {
+            "title": "Complétude et de validité des NIF.",
+			"desc": "Les NIF ne sont pas renseignés ou ne respectent pas le format requis ",
+			"tags":[
+				{"tag": "besoin signalé", "color":"green"}
+			]
+        },
+        {
+            "title": "Complétude et Actualité des dates de révision",
+			"desc": "Absence totale des dates de révisions et incohérence entre les dates de révision et le niveau de risque",
+			"tags":[
+				{"tag": "avertissement", "color":"orange"},
+				{"tag": "automatique", "color":"blue"}
+			]
+    }
+]
+}
