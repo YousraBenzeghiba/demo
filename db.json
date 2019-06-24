@@ -1,62 +1,142 @@
 {
     "issues": [
         {
-            "title": "Yous",
+          "id":"1",  
+          "title": "Yous",
             "status": "Ready",
             "type": "23",
-            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD."
-
+            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
         },
         {
-            "title": "Mill Real Estate",
+          "id":"2",   
+          "title": "Mill Real Estate",
             "status": "Ready",
             "type": "56",
-            "desc": "Efficiently unleash cross-media information without cross-media value."
+            "desc": "Efficiently unleash cross-media information without cross-media value.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
         },
         {
-            "title": "Eastern Sack",
+          "id":"3",   
+          "title": "Eastern Sack",
             "status": "In Progress",
             "type": "21",
-            "desc": "Jelly-o sesame snaps halvah croissant oat cake cookie."
+            "desc": "Jelly-o sesame snaps halvah croissant oat cake cookie.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
         },
         {
-            "title": "Good Beat",
+          "id":"4",   
+          "title": "Good Beat",
             "status": "In Progress",
             "type": "38",
-            "desc": "Irish skinny, grinder affogato, dark, sweet carajillo flavour seasonal."
+            "desc": "Irish skinny, grinder affogato, dark, sweet carajillo flavour seasonal.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
         },
         {
-            "title": "Fortier Studio",
+          "id":"5",   
+          "title": "Fortier Studio",
             "status": "In Progress",
             "type": "68",
-            "desc": "Let us wax poetic about the beauty of the cheeseburger."
+            "desc": "Let us wax poetic about the beauty of the cheeseburger.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
         },
         {
-            "title": "Yous",
+          "id":"6",   
+          "title": "Yous",
             "status": "Ready",
             "type": "23",
-            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD."
+            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
 
         },
         {
-            "title": "Yous",
+          "id":"7",   
+          "title": "Yous",
             "status": "Ready",
             "type": "23",
-            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD."
+            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
 
         },
         {
-            "title": "Yous",
+          "id":"8",   
+          "title": "Yous",
             "status": "Ready",
             "type": "23",
-            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD."
+            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD.",
+            "attributes":[
+                {"source":"amplitude","name":"cli"},  
+                {"source":"kyc","name":"nom"}
+              ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
 
         },
         {
-            "title": "Yous",
+          "id":"9",  
+          "title": "Yous",
             "status": "Ready",
             "type": "23",
-            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD."
+            "desc": "Awesome sarcastic cruelly nice and gentle bitch xD.",
+            "attributes":[
+              {"source":"amplitude","name":"cli"},  
+              {"source":"kyc","name":"nom"}
+            ],
+            "nbLines":"2",
+            "deadline":"20-06-19",
+            "creationDate":"23-06-19",
+            "trigger":"blablalblalallalal"
 
         }
     ]
